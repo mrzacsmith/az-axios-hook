@@ -1,0 +1,26 @@
+{
+  "name": "az-axios-hook",
+  "version": "1.0.0",
+  "description": "Custom Axios hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzacsmith/az-axios-hook.git"
+  },
+  "keywords": [
+    "node",
+    "axios",
+    "hook",
+    "javascript",
+    "react"
+  ],
+  "author": "MrZacSmith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrzacsmith/az-axios-hook/issues"
+  },
+  "homepage": "https://github.com/mrzacsmith/az-axios-hook#readme"
+}
